@@ -221,6 +221,7 @@ Launch a premium hybrid cultural experience platform centered on Craft & Textile
 Authors
 
 Ankit Dhanghar
+
 Anuj Mittal
 
 Indian Institute of Technology Roorkee (IIT Roorkee)
